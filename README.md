@@ -1,4 +1,6 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
+# NAME: M.SHARVESHWARAN
+# REG NO: 212224240150
 
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
